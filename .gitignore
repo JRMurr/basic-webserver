@@ -16,3 +16,7 @@ examples/file
 examples/dir
 examples/env
 examples/command
+
+# direnv
+.direnv
+.envrc
